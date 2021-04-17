@@ -1,4 +1,4 @@
 {"notes":[
-  {"title":"breakfast","contnet":"at 8 am","color":"Colos.red"},
-  {"title":"Study","contnet":"at 9 am","color":"Colos.blue"},
-  {"title":"GYM","contnet":"at 3 pm","color":"Colos.red"}]}
+  {"title":"breakfast","contnet":"at 8 am","color":"Colors.red"},
+  {"title":"Study","contnet":"at 9 am","color":"Colors.blue"},
+  {"title":"GYM","contnet":"at 3 pm","color":"Colors.red"}]}
